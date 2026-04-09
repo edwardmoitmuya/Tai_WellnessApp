@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#75E975"
+    tools:context=".MainActivity">
+
+<!--    Linear layout vertical-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!--        Text view-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Health and wellness"
+            android:textSize="30sp"
+            android:textAlignment="center"
+            android:layout_marginTop="30dp"
+            android:textStyle="bold"
+            android:textColor="#2A3680"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/image2"
+            android:scaleType="fitCenter"
+            android:layout_margin="10dp"/>
+
+
+           <com.google.android.gms.ads.AdView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/ad_view"
+               app:adSize="BANNER"
+               app:adUnitId="ca-app-pub-3940256099942544/6300978111"/>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Healthy Recipes"
+            android:layout_margin="10dp"
+            android:id="@+id/healthy_recipes"
+            android:backgroundTint="#436736"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Nutrition Advice"
+            android:textColor="#CC8825"
+            android:id="@+id/nutrition_advice"
+            android:backgroundTint="#667831"/>
+
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Meditation"
+            android:textColor="#42B7ED"
+            android:id="@+id/start_meditation"
+            android:backgroundTint="#E06C6C"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Hydration Alert"
+            android:textColor="#AB12C3"
+            android:id="@+id/hydration_alert"
+            android:backgroundTint="#F44336"/>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Start Exercise"
+            android:textColor="#673AB7"
+            android:id="@+id/start_exercise"
+            android:backgroundTint="#00BCD4"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Daily Motivation"
+            android:textColor="@color/black"
+            android:id="@+id/daily_motivation"
+            android:backgroundTint="#3F51B5"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Weekly Goals"
+            android:textColor="#E91E63"
+            android:id="@+id/weekly_goals"
+            android:backgroundTint="#3C1414"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Check progress"
+            android:textColor="#009688"
+            android:id="@+id/check_progress"
+            android:backgroundTint="#9C27B0"/>
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+</ScrollView>

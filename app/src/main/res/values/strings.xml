@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Tai_WellnessApp</string>
+    <string name="meditation">Meditation</string>
+    <string name="healthy_recipes">Healthy Recipes</string>
+    <string name="hydration_alert">Hydration Alert</string>
+    <string name="start_exercise">Start Exercise</string>
+    <string name="weekly_goal">Weekly Goal</string>
+    <string name="daily_motivations">Daily Motivation</string>
+    <string name="nutrition_advicetle">Nutrition Advice</string>
+    <string name="check_progressive">Check Progress</string>
+    <string name="nutrition_advice">
+        Nutrition Advice\n\n1.
+        Fruit Salad\nA mix of fresh fruits like bananas, apples, and oranges.\n\n2.
+        Grilled Chicken\nLow-fat grilled chicken served with vegetables.\n\n3.
+        Vegetable Stir Fry\nCarrots, broccoli, and peppers cooked lightly.\n\n4.
+        Oatmeal Breakfast\nOats with milk and fruits.\n\n5.
+        Avocado Toast\nWhole grain bread topped with avocado.\n\n6.
+        Boiled Eggs\nRich in protein and easy to prepare.\n\n7.
+        Smoothie Bowl\nBlended fruits with yogurt and nuts.\n\n8.
+        Brown Rice and Beans\nHealthy and full of fiber.\n\n9.
+        Baked Fish\nFish baked with lemon and spices.\n\n10.
+        Greek Yogurt with Honey\nGood for digestion and very nutritious.
+    </string>
+    <string name="meditation_content">
+        Meditation Content\n\n1.
+        Mindful Breathing\nFocus on your breath, inhaling and exhaling slowly to calm your mind.\n\n2.
+        Body Scan Meditation\nGently bring awareness to each part of your body from head to toe.\n\n3.
+        Guided Visualization\nImagine a peaceful place like a beach or forest to relax your thoughts.\n\n4.
+        Loving-Kindness Meditation\nSilently repeat phrases wishing well-being for yourself and others.\n\n5.
+        Mantra Meditation\nRepeat a calming word or phrase to maintain focus and clarity.\n\n6.
+        Walking Meditation\nWalk slowly and focus on each step and movement of your body.\n\n7.
+        Gratitude Meditation\nReflect on things you are thankful for to cultivate positivity.\n\n8.
+        Silent Sitting\nSit quietly and observe your thoughts without judgment.\n\n9.
+        Chakra Meditation\nFocus on different energy centers in your body for balance.\n\n10.
+        Progressive Relaxation\nTense and relax each muscle group to release physical stress.
+    </string>
+
+    <string name="exercise_content">
+        Start Exercise\n\n1.
+        Warm-Up Stretch\nGently stretch your muscles to prepare your body for activity.\n\n2.
+        Jumping Jacks\nA simple full-body exercise to increase heart rate.\n\n3.
+        Bodyweight Squats\nStrengthen your legs and improve balance.\n\n4.
+        Push-Ups\nBuild upper body strength using your own weight.\n\n5.
+        Plank Hold\nEngage your core and improve stability.\n\n6.
+        Lunges\nWork your legs and improve coordination.\n\n7.
+        High Knees\nBoost cardio and activate lower body muscles.\n\n8.
+        Mountain Climbers\nA great full-body workout for strength and endurance.\n\n9.
+        Cool Down Stretch\nSlowly stretch to relax muscles after exercise.\n\n10.
+        Deep Breathing\nCalm your body and restore normal breathing.
+    </string>
+    <string name="check_progress">
+       Check Progress
+
+       Fruit Mix Bowl – A refreshing combination of seasonal fruits that provides natural sugars and vitamins.
+       Lean Grilled Chicken – Lightly seasoned chicken cooked without excess oil, perfect for muscle health.
+       Sautéed Vegetables – A colorful mix of lightly cooked veggies that retain nutrients and flavor.
+       Warm Oats Meal – A filling breakfast made with oats, offering long-lasting energy throughout the day.
+       Avocado Bread Slice – Crunchy whole grain bread layered with creamy avocado for healthy fats.
+       Hard-Boiled Eggs – Simple protein-rich eggs that help keep you full and energized.
+       Creamy Fruit Blend – A thick mix of blended fruits, yogurt, and crunchy toppings for added texture.
+       Whole Grain Rice and Legumes – A balanced dish packed with fiber and plant-based protein.☐ Oven-Cooked Fish – Gently baked fish infused with herbs for a heart-friendly meal.
+       Yogurt with Natural Sweetness – Smooth yogurt paired with a touch of honey to support gut health.
+    </string>
+    <string name="daily_motivation">
+        Daily Motivation
+
+
+
+    </string>
+
+
+</resources>
