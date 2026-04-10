@@ -20,7 +20,7 @@
             android:textSize="30sp"
             android:textAlignment="center"
             android:textStyle="bold"
-            android:textColor="#BB121212"
+            android:textColor="#3F51B5"
             android:layout_marginTop="10dp"/>
 
         <ImageView
@@ -33,9 +33,9 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/weekly_goal"
+            android:text="@string/check_progress_content"
             android:textSize="25sp"
-            android:textColor="#BB121212"
+            android:textColor="#027B87"
             android:layout_marginTop="10dp"
             />
     </LinearLayout>

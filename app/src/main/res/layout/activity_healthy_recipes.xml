@@ -32,7 +32,7 @@
             android:textSize="20sp"
             android:textStyle="bold"
             android:layout_margin="25dp"
-            android:text="@string/healthy_recipes"
+            android:text="@string/healthy_recipes_content"
             android:textColor="#2196F3"/>
 
 

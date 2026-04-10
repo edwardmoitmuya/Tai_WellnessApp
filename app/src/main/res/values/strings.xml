@@ -8,6 +8,19 @@
     <string name="daily_motivations">Daily Motivation</string>
     <string name="nutrition_advicetle">Nutrition Advice</string>
     <string name="check_progressive">Check Progress</string>
+    <string name="healthyrecipecnt">
+        Healthy Recipe\n\n1.
+        Fruit Salad\nA mix of fresh fruits like bananas, apples, and oranges.\n\n2.
+        Grilled Chicken\nLow-fat grilled chicken served with vegetables.\n\n3.
+        Vegetable Stir Fry\nCarrots, broccoli, and peppers cooked lightly.\n\n4.
+        Oatmeal Breakfast\nOats with milk and fruits.\n\n5.
+        Avocado Toast\nWhole grain bread topped with avocado.\n\n6.
+        Boiled Eggs\nRich in protein and easy to prepare.\n\n7.
+        Smoothie Bowl\nBlended fruits with yogurt and nuts.\n\n8.
+        Brown Rice and Beans\nHealthy and full of fiber.\n\n9.
+        Baked Fish\nFish baked with lemon and spices.\n\n10.
+        Greek Yogurt with Honey\nGood for digestion and very nutritious.
+    </string>
     <string name="nutrition_advice">
         Nutrition Advice\n\n1.
         Fruit Salad\nA mix of fresh fruits like bananas, apples, and oranges.\n\n2.
@@ -63,9 +76,74 @@
     </string>
     <string name="daily_motivation">
         Daily Motivation
+    </string>
 
+    <string name="hydration_content">
+        Start Hydration\n\n1.
+        Morning Glass\nDrink a glass of water immediately after waking up to rehydrate.\n\n2.
+        Carry a Bottle\nKeep a reusable water bottle with you throughout the day.\n\n3.
+        Sip Regularly\nTake small, frequent sips instead of gulping large amounts.\n\n4.
+        Flavor Naturally\nAdd lemon, cucumber, or mint to make water more refreshing.\n\n5.
+        Eat Your Water\nConsume hydrating foods like watermelon, celery, and cucumber.\n\n6.
+        Pre-Meal Glass\nDrink water 30 minutes before meals to aid digestion.\n\n7.
+        Post-Activity Refill\nReplenish fluids lost through sweat after any physical activity.\n\n8.
+        Monitor Color\nCheck that your urine is pale yellow, a sign of good hydration.\n\n9.
+        Set Reminders\nUse an app or alarm to remind you to drink at regular intervals.\n\n10.
+        Evening Limit\nTaper off fluid intake before bed to ensure restful sleep.
+    </string>
 
+    <string name="check_progress_content">
+        Weekly Progress\n\n1.
+        Set Weekly Goals\nDefine clear and achievable fitness or hydration goals for the week.\n\n2.
+        Track Daily Activity\nRecord your workouts, steps, or water intake each day.\n\n3.
+        Monitor Consistency\nCheck how often you stick to your routine throughout the week.\n\n4.
+        Measure Performance\nNote improvements in strength, endurance, or energy levels.\n\n5.
+        Check Body Signals\nPay attention to how your body feels—energy, soreness, and recovery.\n\n6.
+        Review Nutrition\nEvaluate your eating habits and hydration levels.\n\n7.
+        Celebrate Wins\nAcknowledge small achievements to stay motivated.\n\n8.
+        Identify Challenges\nRecognize obstacles that affected your progress.\n\n9.
+        Adjust Plan\nModify your routine based on what worked or didn’t.\n\n10.
+        Prepare Next Week\nSet new goals and plan ahead for continued progress.
+    </string>
 
+    <string name="start_exercise_content">
+        Start Exercise  Check Progress\n\n1.
+        Warm-Up First\nBegin with light stretches to prepare your body.\n\n2.
+        Start Small\nChoose simple exercises to build consistency.\n\n3.
+        Follow Routine\nStick to a structured workout plan.\n\n4.
+        Track Reps\nCount repetitions and sets during each exercise.\n\n5.
+        Time Your Workout\nMonitor how long you exercise each session.\n\n6.
+        Note Difficulty\nRecord how challenging each workout feels.\n\n7.
+        Stay Consistent\nExercise regularly to build momentum.\n\n8.
+        Compare Progress\nCheck improvements over time in strength and stamina.\n\n9.
+        Adjust Intensity\nIncrease difficulty gradually as you improve.\n\n10.
+        Reflect  Improve\nReview your progress and refine your routine.
+    </string>
+    <string name="healthy_recipes_content">
+        Healthy Recipes\n\n1.
+        Start Simple\nChoose easy recipes with few ingredients to build consistency.\n\n2.
+        Use Fresh Ingredients\nIncorporate fresh fruits, vegetables, and whole foods.\n\n3.
+        Balance Your Plate\nInclude protein, healthy fats, and complex carbohydrates.\n\n4.
+        Control Portions\nServe appropriate portions to avoid overeating.\n\n5.
+        Cook at Home\nPrepare meals at home to control ingredients and nutrition.\n\n6.
+        Limit Processed Foods\nReduce intake of packaged and highly processed items.\n\n7.
+        Healthy Cooking Methods\nUse grilling, steaming, or baking instead of frying.\n\n8.
+        Stay Hydrated\nPair meals with water instead of sugary drinks.\n\n9.
+        Plan Meals\nPrepare a weekly meal plan to stay on track.\n\n10.
+        Enjoy Mindfully\nEat slowly and appreciate your meals for better digestion.
+    </string>
+    <string name="daily_motivation_content">
+        Daily Motivation\n\n1.
+        Start with Gratitude\nBegin your day by appreciating what you have.\n\n2.
+        Set Daily Goals\nDefine small, achievable goals for the day.\n\n3.
+        Positive Mindset\nFocus on what can go right instead of what can go wrong.\n\n4.
+        Take Action\nStart even if you don’t feel ready—progress comes from doing.\n\n5.
+        Stay Consistent\nSmall efforts every day lead to big results.\n\n6.
+        Embrace Challenges\nView obstacles as opportunities to grow.\n\n7.
+        Learn Daily\nGain something new each day, no matter how small.\n\n8.
+        Avoid Negativity\nLimit exposure to negative thoughts and influences.\n\n9.
+        Reflect on Progress\nLook back at what you’ve achieved, not just what’s left.\n\n10.
+        End with Positivity\nFinish your day with a positive thought or reflection.
     </string>
 
 

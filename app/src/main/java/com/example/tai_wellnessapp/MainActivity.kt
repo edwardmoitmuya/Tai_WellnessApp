@@ -72,7 +72,7 @@ class MainActivity : AppCompatActivity() {
         //StartExercise
         val start_exercise=findViewById<Button>(R.id.start_exercise)
         start_exercise.setOnClickListener {
-            val intent= Intent(applicationContext, start_exercise::class.java)
+            val intent= Intent(applicationContext, StartExercise::class.java)
             startActivity(intent)
         }
 
@@ -80,7 +80,7 @@ class MainActivity : AppCompatActivity() {
 
         val daily_motivation=findViewById<Button>(R.id.daily_motivation)
         daily_motivation.setOnClickListener {
-            val intent= Intent(applicationContext, daily_motivation::class.java)
+            val intent= Intent(applicationContext, DailyMotivation::class.java)
             startActivity(intent)
         }
 
@@ -88,14 +88,14 @@ class MainActivity : AppCompatActivity() {
 
         val weekly_goal=findViewById<Button>(R.id.weekly_goals)
         weekly_goal.setOnClickListener {
-            val  intent= Intent(applicationContext, weekly_goal::class.java)
+            val  intent= Intent(applicationContext, WeeklyGoal::class.java)
             startActivity(intent)
         }
 
         //CheckProgress
         val check_progress=findViewById<Button>(R.id.check_progress)
         check_progress.setOnClickListener {
-            val intent= Intent(applicationContext, check_progress::class.java)
+            val intent= Intent(applicationContext, CheckProgress::class.java)
             startActivity(intent)
         }
 

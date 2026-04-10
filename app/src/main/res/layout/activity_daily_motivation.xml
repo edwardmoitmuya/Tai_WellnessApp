@@ -33,7 +33,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/daily_motivation"
+            android:text="@string/daily_motivation_content"
             android:textSize="25sp"
             android:textColor="#785690"
             android:layout_marginTop="10dp"

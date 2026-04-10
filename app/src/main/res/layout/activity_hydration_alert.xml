@@ -15,11 +15,11 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/healthy_recipes"
+            android:text="@string/hydration_alert"
             android:textSize="30sp"
             android:textAlignment="center"
             android:textStyle="bold"
-            android:textColor="#BB121212"
+            android:textColor="#03A9F4"
             android:layout_marginTop="10dp"/>
 
         <ImageView
@@ -32,7 +32,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/healthy_recipes"
+            android:text="@string/hydration_content"
             android:textSize="25sp"
             android:textColor="#B81212"
             android:layout_marginTop="10dp"
